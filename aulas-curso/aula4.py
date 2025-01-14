@@ -42,7 +42,7 @@ else:
     bonus = 0
 print("Bonus", bonus)
 
-lista_produtos = ["airpod", "appleWatch", "iphone", "macBook" ]
+lista_produtos = ["airpod", "apple watch", "iphone", "macbook" ]
 produto_procurado = input("Pesquise o produto desejado: ")
 produto_procurado = produto_procurado.lower()
 
