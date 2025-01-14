@@ -1,0 +1,28 @@
+Zen do Python
+
+Legibilidade do código 
+Simplicidade 
+Modularidade e reutilização de código 
+Capacidade de integração 
+
+
+
+Bonito é melhor que feio
+Explícito é melhor que implicito
+Simples é melhor que complexo
+Complexo é melhor que complicado
+Linear é melhor que aninhado
+Esparso é melhor que denso
+Legibilidade conta
+Casos especiais não são especiais o bastante para quebrar as regras
+Ainda que a praticidade vença a pureza
+Erros nunca devem passar silenciosamente
+A menos que sejam explicitamente silenciados 
+Diante da ambiguidade, recuse a tentação de adivinhar
+Deve haver um - e preferencialmente um - modo óbvio para fazer algo
+Embora esse modo possa não ser obvio a principio a menos que você seja holandês 
+Agora é melhor que nunca
+Apesar de  que nunca normalmente é melhor do que exatamente Agora
+Se a implantação é dificil de explicar, é uma má ideia
+Se a implantação é facil de explicar, pode ser uma boa ideia
+Namespaces são uma grande ideia -  vamos fazer mais deles !
